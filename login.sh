@@ -122,7 +122,7 @@ echo -e "\033[1m\033[33m
 
 
 "
-echo -e  "     \e[1m\e[32m▂▃▄▅▆▇▓▒░ \033[1mCoded By \e[33mCyberAK \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "     \e[1m\e[32m▂▃▄▅▆▇▓▒░ \033[1mCoded By \e[33mMoreshwar Bhonde\e[1m\e[32m░▒▓▇▆▅▄▃▂"
 cd $HOME
 echo -e "   \033[1m\033[33m]\033[31m──────────────────────────────────────\033[33m["
 echo 
